@@ -1,3 +1,4 @@
 class Circle
-
-end 
+  def initialize
+  end 
+end
